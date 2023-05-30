@@ -2953,9 +2953,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@revoltchat/ui@workspace:.":
+"@FrenzyComs/ui@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@revoltchat/ui@workspace:."
+  resolution: "@FrenzyComs/ui@workspace:."
   dependencies:
     "@babel/cli": ^7.17.6
     "@babel/core": ^7.17.9
