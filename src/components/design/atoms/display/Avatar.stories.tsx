@@ -17,7 +17,7 @@ export default {
             name: "Source",
             type: "string",
             defaultValue:
-                "https://autumn.revolt.chat/attachments/Jzd9uX7iFg4cElkbeNV4vsiaUkMkXNguO2X7rEMajl/ul5PFf4_dySDWGeOJ4WIOTlnL8uF-h4d4gn5TISB1g.png",
+                "https://autumn.transfem.pp.ua/attachments/Jzd9uX7iFg4cElkbeNV4vsiaUkMkXNguO2X7rEMajl/ul5PFf4_dySDWGeOJ4WIOTlnL8uF-h4d4gn5TISB1g.png",
         },
         fallback: {
             name: "Fallback Component",

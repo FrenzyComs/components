@@ -58,7 +58,7 @@ const Template: ComponentStory<typeof TextArea> = (args) => {
                 <H5>
                     Descriptions support Markdown formatting,{" "}
                     <a
-                        href="https://developers.revolt.chat/markdown"
+                        href="https://developers.transfem.pp.ua/markdown"
                         target="_blank"
                         rel="noreferrer">
                         learn more here

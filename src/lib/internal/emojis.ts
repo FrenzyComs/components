@@ -1996,5 +1996,5 @@ export function parseEmoji(emoji: string) {
     }
 
     const codepoint = toCodePoint(emoji);
-    return `https://static.revolt.chat/emoji/mutant/${codepoint}.svg`;
+    return `https://static.transfem.pp.ua/emoji/mutant/${codepoint}.svg`;
 }

@@ -34,7 +34,7 @@ export default {
                 <img
                     src={
                         emoji === "0"
-                            ? "https://autumn.revolt.chat/attachments/fTs2qDi4ix0i_BDzJ-WwX2Hgvbr5KRL47dMKyD13Je/image.png"
+                            ? "https://autumn.transfem.pp.ua/attachments/fTs2qDi4ix0i_BDzJ-WwX2Hgvbr5KRL47dMKyD13Je/image.png"
                             : parseEmoji(
                                   emojiDictionary[
                                       emoji as keyof typeof emojiDictionary
