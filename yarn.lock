@@ -2617,6 +2617,55 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@frenzycoms/ui@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@frenzycoms/ui@workspace:."
+  dependencies:
+    "@babel/cli": ^7.17.6
+    "@babel/core": ^7.17.9
+    "@babel/plugin-proposal-nullish-coalescing-operator": ^7.17.12
+    "@babel/preset-env": ^7.18.2
+    "@babel/preset-react": ^7.17.12
+    "@babel/preset-typescript": ^7.17.12
+    "@storybook/addon-actions": ^6.5.5
+    "@storybook/addon-essentials": ^6.5.5
+    "@storybook/addon-knobs": ^6.4.0
+    "@storybook/addon-links": ^6.5.5
+    "@storybook/client-api": ^6.5.12
+    "@storybook/react": ^6.5.5
+    "@styled-icons/boxicons-logos": ^10.38.0
+    "@styled-icons/boxicons-regular": ^10.38.0
+    "@styled-icons/boxicons-solid": ^10.38.0
+    "@tippyjs/react": ^4.2.6
+    "@types/lodash.isequal": ^4.5.5
+    "@types/prismjs": ^1
+    "@types/react": ^18
+    "@types/react-beautiful-dnd": =13.0.0
+    "@types/react-dom": ^18
+    "@types/styled-components": ^5.1.25
+    babel-loader: ^8.2.4
+    babel-plugin-styled-components: ^2.0.7
+    babel-preset-minify: ^0.5.1
+    mobx: ^6.6.0
+    mobx-react-lite: ^3.4.0
+    prismjs: ^1.28.0
+    react: ^17.0.2
+    react-beautiful-dnd: ^13.1.0
+    react-device-detect: ^2.2.2
+    react-dom: ^17.0.2
+    react-virtuoso: ^2.12.0
+    revolt.js: ^6
+    rimraf: ^3.0.2
+    storybook-dark-mode: ^1.1.0
+    storybook-rtl-addon: ^0.3.3
+    styled-components: ^5.3.5
+    tsc-watch: ^5.0.3
+    typescript: ^4.8.3
+  peerDependencies:
+    revolt.js: "*"
+  languageName: unknown
+  linkType: soft
+
 "@gar/promisify@npm:^1.0.1":
   version: 1.1.2
   resolution: "@gar/promisify@npm:1.1.2"
@@ -2952,55 +3001,6 @@ __metadata:
   checksum: fd7f9dca3fb716d7426332b6ee283f88d2724c0ab342fb678865a640bad403dfb9eeebd8204a406986162f7e2b33394f104320008b74d0e9066d7322f70ea35d
   languageName: node
   linkType: hard
-
-"@frenzycoms/ui@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@frenzycoms/ui@workspace:."
-  dependencies:
-    "@babel/cli": ^7.17.6
-    "@babel/core": ^7.17.9
-    "@babel/plugin-proposal-nullish-coalescing-operator": ^7.17.12
-    "@babel/preset-env": ^7.18.2
-    "@babel/preset-react": ^7.17.12
-    "@babel/preset-typescript": ^7.17.12
-    "@storybook/addon-actions": ^6.5.5
-    "@storybook/addon-essentials": ^6.5.5
-    "@storybook/addon-knobs": ^6.4.0
-    "@storybook/addon-links": ^6.5.5
-    "@storybook/client-api": ^6.5.12
-    "@storybook/react": ^6.5.5
-    "@styled-icons/boxicons-logos": ^10.38.0
-    "@styled-icons/boxicons-regular": ^10.38.0
-    "@styled-icons/boxicons-solid": ^10.38.0
-    "@tippyjs/react": ^4.2.6
-    "@types/lodash.isequal": ^4.5.5
-    "@types/prismjs": ^1
-    "@types/react": ^18
-    "@types/react-beautiful-dnd": =13.0.0
-    "@types/react-dom": ^18
-    "@types/styled-components": ^5.1.25
-    babel-loader: ^8.2.4
-    babel-plugin-styled-components: ^2.0.7
-    babel-preset-minify: ^0.5.1
-    mobx: ^6.6.0
-    mobx-react-lite: ^3.4.0
-    prismjs: ^1.28.0
-    react: ^17.0.2
-    react-beautiful-dnd: ^13.1.0
-    react-device-detect: ^2.2.2
-    react-dom: ^17.0.2
-    react-virtuoso: ^2.12.0
-    revolt.js: ^6
-    rimraf: ^3.0.2
-    storybook-dark-mode: ^1.1.0
-    storybook-rtl-addon: ^0.3.3
-    styled-components: ^5.3.5
-    tsc-watch: ^5.0.3
-    typescript: ^4.8.3
-  peerDependencies:
-    revolt.js: "*"
-  languageName: unknown
-  linkType: soft
 
 "@storybook/addon-actions@npm:6.5.5, @storybook/addon-actions@npm:^6.5.5":
   version: 6.5.5
