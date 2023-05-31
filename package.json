@@ -45,7 +45,7 @@
         "babel-preset-minify": "^0.5.1",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
-        "frenzy.js": "^6",
+        "frenzy.js": "git+https://github.com/FrenzyComs/frenzy.js.git",
         "rimraf": "^3.0.2",
         "storybook-dark-mode": "^1.1.0",
         "storybook-rtl-addon": "^0.3.3",
