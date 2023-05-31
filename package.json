@@ -45,7 +45,7 @@
         "babel-preset-minify": "^0.5.1",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
-        "revolt.js": "^6",
+        "frenzy.js": "^6",
         "rimraf": "^3.0.2",
         "storybook-dark-mode": "^1.1.0",
         "storybook-rtl-addon": "^0.3.3",
@@ -72,6 +72,6 @@
     ],
     "packageManager": "yarn@3.2.0",
     "peerDependencies": {
-        "revolt.js": "*"
+        "frenzy.js": "*"
     }
 }

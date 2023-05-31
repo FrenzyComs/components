@@ -2654,7 +2654,7 @@ __metadata:
     react-device-detect: ^2.2.2
     react-dom: ^17.0.2
     react-virtuoso: ^2.12.0
-    revolt.js: ^6
+    frenzy.js: ^6
     rimraf: ^3.0.2
     storybook-dark-mode: ^1.1.0
     storybook-rtl-addon: ^0.3.3
@@ -2662,7 +2662,7 @@ __metadata:
     tsc-watch: ^5.0.3
     typescript: ^4.8.3
   peerDependencies:
-    revolt.js: "*"
+    frenzy.js: "*"
   languageName: unknown
   linkType: soft
 
@@ -13539,9 +13539,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"revolt-api@npm:0.5.7":
+"frenzy-api@npm:0.5.7":
   version: 0.5.7
-  resolution: "revolt-api@npm:0.5.7"
+  resolution: "frenzy-api@npm:0.5.7"
   dependencies:
     "@insertish/oapi": 0.1.18
     axios: ^0.26.1
@@ -13550,9 +13550,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"revolt.js@npm:^6":
+"frenzy.js@npm:^6":
   version: 6.0.20
-  resolution: "revolt.js@npm:6.0.20"
+  resolution: "frenzy.js@npm:6.0.20"
   dependencies:
     "@insertish/exponential-backoff": 3.1.0-patch.2
     "@insertish/isomorphic-ws": ^4.0.1
@@ -13563,7 +13563,7 @@ __metadata:
     lodash.isequal: ^4.5.0
     long: ^5.2.0
     mobx: ^6.3.2
-    revolt-api: 0.5.7
+    frenzy-api: 0.5.7
     ulid: ^2.3.0
     ws: ^8.2.2
   checksum: f4f04fba764c052ee9a800d4126a13638b3a91e5932193ab32cf7be3161549e7dd85b8b08a6eff57c16408426aea8c15996bec921d57b71a81203375a77f13f2

@@ -1921,7 +1921,7 @@ export const emojiDictionary = {
         rainbowHype: "custom:rainbowHype.gif",
         rawr: "custom:rawr.png",
         rember: "custom:rember.png",
-        revolt: "custom:revolt.png",
+        frenzy: "custom:frenzy.png",
         sickly: "custom:sickly.png",
         stare: "custom:stare.png",
         tfyoulookingat: "custom:tfyoulookingat.png",
@@ -1990,7 +1990,7 @@ function toCodePoint(rune: string) {
 
 export function parseEmoji(emoji: string) {
     if (emoji.startsWith("custom:")) {
-        return `https://dl.insrt.uk/projects/revolt/emotes/${emoji.substring(
+        return `https://dl.insrt.uk/projects/frenzy/emotes/${emoji.substring(
             7,
         )}`;
     }

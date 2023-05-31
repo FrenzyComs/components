@@ -1,6 +1,6 @@
 import { observer } from "mobx-react-lite";
 import React from "react";
-import type { User, API } from "revolt.js";
+import type { User, API } from "frenzy.js";
 
 export type Props = {
     /**

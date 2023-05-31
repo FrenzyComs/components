@@ -1,6 +1,6 @@
 import { ComponentMeta, ComponentStory } from "@storybook/react";
 import React, { memo } from "react";
-import { Server } from "revolt.js";
+import { Server } from "frenzy.js";
 
 import { InjectMockClient } from "../../../../lib/internal";
 import { emojiDictionary, parseEmoji } from "../../../../lib/internal/emojis";
