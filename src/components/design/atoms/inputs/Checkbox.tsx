@@ -153,7 +153,7 @@ export function Checkbox({
     ...props
 }: Props) {
     return (
-        // @ts-expect-error cope
+        
         <Base {...props}>
             <Content>
                 {title && (
