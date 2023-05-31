@@ -1,5 +1,5 @@
 import React from "react";
-import { User } from "frenzy.js";
+import { User } from "@frenzycoms/frenzy.js";
 import styled from "styled-components";
 import { Tooltip, TooltipProps } from "./Tooltip";
 

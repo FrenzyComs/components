@@ -1,6 +1,6 @@
 import { observer } from "mobx-react-lite";
 import React from "react";
-import type { Message as MessageType } from "frenzy.js";
+import type { Message as MessageType } from "@frenzycoms/frenzy.js";
 import styled, { css } from "styled-components";
 import { Avatar } from "../atoms";
 import { Info } from "./Info";

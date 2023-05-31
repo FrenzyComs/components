@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import type { Client } from "frenzy.js";
+import type { Client } from "@frenzycoms/frenzy.js";
 
 import { UIProvider } from "./context";
 

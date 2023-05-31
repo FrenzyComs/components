@@ -1,7 +1,7 @@
 import React, { useLayoutEffect } from "react";
 import { observer } from "mobx-react-lite";
 
-import { API } from "frenzy.js";
+import { API } from "@frenzycoms/frenzy.js";
 import styled from "styled-components";
 import { Button, ButtonItem } from "../../../design";
 import { Lock } from "@styled-icons/boxicons-solid";

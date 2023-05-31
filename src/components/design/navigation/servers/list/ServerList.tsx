@@ -2,8 +2,8 @@ import { Cog } from "@styled-icons/boxicons-solid";
 import React from "react";
 import { DragDropContext, Droppable, Draggable } from "react-beautiful-dnd";
 import { Virtuoso } from "react-virtuoso";
-import type { Client, Server } from "frenzy.js";
-import type { INotificationChecker } from "frenzy.js/dist/util/Unreads";
+import type { Client, Server } from "@frenzycoms/frenzy.js";
+import type { INotificationChecker } from "@frenzycoms/frenzy.js/dist/util/Unreads";
 import styled, { css } from "styled-components";
 
 import { isTouchscreenDevice } from "../../../../../lib";
