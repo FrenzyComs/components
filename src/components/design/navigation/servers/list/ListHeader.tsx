@@ -1,6 +1,6 @@
 import { observer } from "mobx-react-lite";
 import React from "react";
-import type { Channel } from "@frenzycoms/frenzy.js";
+import type { Channel } from "frenzy.js";
 import styled from "styled-components";
 
 import { useLink, useTrigger } from "../../../../../lib/context";

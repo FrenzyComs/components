@@ -1,7 +1,7 @@
 import { observer } from "mobx-react-lite";
 import React from "react";
 import styled, { css } from "styled-components";
-import type { Server } from "@frenzycoms/frenzy.js";
+import type { Server } from "frenzy.js";
 import { DraggableProps } from "../../../../common";
 
 import { Avatar } from "../../../atoms";
@@ -9,7 +9,7 @@ import { Unreads } from "../../../atoms/indicators/Unreads";
 import { Swoosh } from "./Swoosh";
 import { useLink, useTrigger } from "../../../../../lib/context";
 import { Tooltip } from "../../../atoms/indicators/Tooltip";
-import { INotificationChecker } from "@frenzycoms/frenzy.js/dist/util/Unreads";
+import { INotificationChecker } from "frenzy.js/dist/util/Unreads";
 
 export const ItemContainer = styled.div<{ head?: boolean }>`
     width: 56px;

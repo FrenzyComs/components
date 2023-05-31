@@ -6,7 +6,7 @@ import {
     InjectMockClient,
     MaskDecorator,
 } from "../../../lib/internal";
-import type { API } from "@frenzycoms/frenzy.js";
+import type { API } from "frenzy.js";
 
 const defaultValue: Omit<API.Message, "_id" | "channel" | "author"> = {
     content: "Hello there!",

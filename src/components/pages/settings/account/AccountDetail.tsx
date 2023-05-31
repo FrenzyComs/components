@@ -1,7 +1,7 @@
 import { HelpCircle } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
 import React from "react";
-import { User } from "@frenzycoms/frenzy.js";
+import { User } from "frenzy.js";
 import styled from "styled-components";
 import { useUI } from "../../../../lib";
 import { Button, Avatar, Column, H1, Row, Tooltip } from "../../../design";
